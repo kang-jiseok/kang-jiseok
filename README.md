@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 	
   </div>
 
-JAVA Developer  👋
+<h1>JAVA Developer  👋</h1>
